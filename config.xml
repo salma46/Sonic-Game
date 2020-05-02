@@ -7,14 +7,16 @@
 
 <!-- versionCode is aoptional and Android only -->
 
-  <name>Anndroid App</name>
+  <name>Sonic App</name>
 
   <description>
       An example for HACKTHON.
   </description>
 
+
+
   <author href="https://build.phonegap.com" email="support@phonegap.com">
       salma
   </author>
-icon=src"icon.png"/>
+<icon src="hackathongame.png"/>
 </widget>
